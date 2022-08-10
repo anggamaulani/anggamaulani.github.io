@@ -1,0 +1,17 @@
+body {
+  background-color: #0a0a0f;
+  color: #fff;
+}
+
+.jumbotron {
+  background-color: #0a0a0f;
+  padding: 100px 25px;
+}
+
+#projects {
+  padding: 100px;
+}
+
+#contact {
+  padding: 100px;
+}
